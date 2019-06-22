@@ -1,0 +1,2 @@
+Strlwr function converts a string to lower case, and strupr function converts a string to upper case. Here we will change string case with and without strlwr, strupr functions. These functions convert case of alphabets and ignore other characters which may be present in a string.
+
